@@ -1,4 +1,4 @@
-# DoneButtonForIOSKeyboard
+# Done Button For IOS Keyboard
 
 This repository demonstrates how to add a tool bar on the bottom of the screen so users can unfocus the softkeyboard on iOS using a .NET MAUI handler(you can read more about .NET MAUI handler here: https://learn.microsoft.com/en-us/dotnet/maui/user-interface/handlers/customize?view=net-maui-7.0).
 
