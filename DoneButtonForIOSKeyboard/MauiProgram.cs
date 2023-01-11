@@ -15,6 +15,7 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			}).ConfigureMauiHandlers(handlers =>
             {
+				//The handler will only be called if the target platform is iOS
 #if IOS
                 handlers.AddHandler<Entry, EntryHandler>();
 #endif
