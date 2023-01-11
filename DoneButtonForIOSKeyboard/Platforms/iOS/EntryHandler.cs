@@ -1,4 +1,4 @@
-﻿//this guarantees that this handler will only be used by the iOS application
+﻿//This if guarantees that this handler will only be used by the iOS application
 #if IOS
 using Microsoft.Maui.Platform;
 using UIKit;
