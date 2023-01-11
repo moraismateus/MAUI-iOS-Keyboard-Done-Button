@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31611.283
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoneButtonForIOSKeyboard", "DoneButtonForIOSKeyboard\DoneButtonForIOSKeyboard.csproj", "{FBF82169-E4CE-4DE5-893A-6CD6D35F3216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF82169-E4CE-4DE5-893A-6CD6D35F3216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF82169-E4CE-4DE5-893A-6CD6D35F3216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF82169-E4CE-4DE5-893A-6CD6D35F3216}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FBF82169-E4CE-4DE5-893A-6CD6D35F3216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF82169-E4CE-4DE5-893A-6CD6D35F3216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF82169-E4CE-4DE5-893A-6CD6D35F3216}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal
