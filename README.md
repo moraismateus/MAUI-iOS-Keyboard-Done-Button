@@ -4,8 +4,7 @@ This repository demonstrates how to add a tool bar on the bottom of the screen s
 
 This is useful when you have multiple fields on the screen, especially with Numeric keyboards that doesn't have the return button and it bothers the user to find a blank space to unfocus an entry to hide the keyboard.
 
-<img src="https://user-images.githubusercontent.com/58345161/211713308-e6a24eaf-0eb9-437e-b7ab-b321eda7acea.gif" width="400">
-
+<img src="https://user-images.githubusercontent.com/58345161/211714009-f7b9439b-4fc7-47c6-8dbb-9c91b9917d56.gif" width="400">
 
 (This is a temporary workaround until this is fixed in .NET MAUI for some other controls, you can apply the same principle to other controls like the SearchBar or the EntryCell).
 
