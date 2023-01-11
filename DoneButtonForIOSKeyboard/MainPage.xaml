@@ -5,10 +5,30 @@
 
     <ScrollView>
         <VerticalStackLayout
-            Spacing="25"
+            Spacing="5"
             Margin="25"
             Padding="30,0"
             VerticalOptions="Start">
+
+            <Entry/>
+
+            <Entry Keyboard="Numeric"/>
+
+            <Entry/>
+
+            <Entry Keyboard="Numeric"/>
+
+            <Entry/>
+
+            <Entry Keyboard="Numeric"/>
+
+            <Entry/>
+
+            <Entry Keyboard="Numeric"/>
+
+            <Entry/>
+
+            <Entry Keyboard="Numeric"/>
 
             <Entry/>
 
