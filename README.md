@@ -2,6 +2,8 @@
 
 This repository demonstrates how to add a tool bar on the bottom of the screen so users can unfocus the softkeyboard on iOS using a .NET MAUI handler(you can read more about .NET MAUI handler here: https://learn.microsoft.com/en-us/dotnet/maui/user-interface/handlers/customize?view=net-maui-7.0).
 
+This is useful when you have multiple fields on the screen and it bothers the user to find a blank space to unfocus an entry.
+
 (This is a temporary workaround until this is fixed in .NET MAUI for some other controls, you can apply the same principle to other controls like the SearchBar or the EntryCell).
 
  - First you need to create a class to be your MAUI handler, as this class will only be used by iOS I saved in the platform specific folder:
